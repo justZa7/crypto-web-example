@@ -6,7 +6,6 @@ import Partners from "@/components/partners";
 import Projects from "@/components/projects";
 import Services from "@/components/services";
 import Stats from "@/components/stats";
-import Image from "next/image";
 
 export default function Home() {
   return (

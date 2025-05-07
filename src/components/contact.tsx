@@ -37,10 +37,10 @@ export default function Contact() {
             transition={{ duration: 0.8 }}
             className="space-y-8"
           >
-            <h3 className="text-2xl font-bold">Let's discuss your project</h3>
+            <h3 className="text-2xl font-bold">Let&apos;s discuss your project</h3>
             <p className="text-gray-400">
-              Whether you're looking to develop a new blockchain application, need a security audit, or want to
-              integrate crypto payments into your platform, I'm here to help.
+              Whether you&apos;re looking to develop a new blockchain application, need a security audit, or want to
+              integrate crypto payments into your platform, I&apos;m here to help.
             </p>
 
             <div className="space-y-4">
